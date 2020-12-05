@@ -4,4 +4,7 @@ public class AppClass2 {
     public void doSomething(){
         System.out.println("doing something");
     }
+    public void method2(){
+
+    }
 }
